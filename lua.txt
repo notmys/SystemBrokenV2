@@ -2000,7 +2000,7 @@ Ticket_Asset.Position = UDim2.new(1, 5, 0.5, 0)
 Ticket_Asset.Size = UDim2.new(0, 25, 0, 25)
 Ticket_Asset.ZIndex = 2
 Ticket_Asset.Image = "rbxassetid://3926305904"
-Ticket_Asset.ImageColor3 = Color3.fromRGB(255, 0, 0)
+Ticket_Asset.ImageColor3 = Color3.fromRGB(150, 1, 236)
 Ticket_Asset.ImageRectOffset = Vector2.new(424, 4)
 Ticket_Asset.ImageRectSize = Vector2.new(36, 36)
 
